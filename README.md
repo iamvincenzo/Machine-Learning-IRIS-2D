@@ -18,6 +18,7 @@ Iris dataset contains 3 classes of 50 instances each, where each class refers to
   3. Iris Virginica
 
 In "mainRF.py" is used Random Forest algorithm to classify items contained in iris-dataset.
+
 In "mainSVM.py" is used Support Vector Machine algorithm to classify items contained in iris-dataset.
 
 In "mainClfEvaluation.py" there are different method used to evaluate the goodness of an agorithm.
